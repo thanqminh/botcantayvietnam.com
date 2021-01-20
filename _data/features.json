@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Vietgap",
+    "description": "100% cần tây đạt tiêu chuẩn Vietgap.",
+    "image": "images/features/vietgap.png"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Chắt lọc tinh tuý",
+    "description": "Thu hái và sấy luôn trong ngày bằng công nghệ sấy lạnh của Nhật Bản.",
+    "image": "images/features/extract.png"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "100% Natural",
+    "description": "Chắt lọc những gì tinh tuý nhất từ tự nhiên để mang đến sản phẩm tốt nhất",
+    "image": "images/features/natural.png"
   }
 ]

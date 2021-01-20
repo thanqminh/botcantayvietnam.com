@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Bột Cần Tây Yume'
 
 google_analytics_id: ""
 homepage:
@@ -11,22 +11,22 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'Product of Moc Van Thanh Jsc'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "Bot Can Tay"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
+  meta_og_url: "https://botcantayvietnam.com"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description: "Bột cần tây Yume được sản xuất từ 100% Cần Tây đạt tiêu chuẩn VietGap, thu hái và sấy luôn trong ngày bằng công nghệ sấy lạnh của Nhật Bản."
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@thanqminh"
+  meta_twitter_creator: "@thanqminh"
 
 collections:
-  services:
+  products:
     output: true
-  team:
+  dealers:
     output: true
 
 sass:

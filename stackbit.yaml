@@ -82,14 +82,14 @@ models:
         name: collections
         fields:
           - type: object
-            name: services
+            name: products
             fields:
               - type: boolean
                 name: output
               - type: string
                 name: permalink
           - type: object
-            name: team
+            name: dealers
             fields:
               - type: boolean
                 name: output
@@ -165,7 +165,7 @@ models:
         name: bodyClass
   contact:
     type: page
-    label: Contact
+    label: Liên hệ
     layout: contact
     fields:
       - type: string
@@ -189,8 +189,8 @@ models:
         name: weight
   services:
     type: page
-    label: Services
-    layout: services
+    label: Sản phẩm
+    layout: products
     fields:
       - type: string
         name: title
@@ -207,12 +207,12 @@ models:
         name: intro_image_hide_on_mobile
         label: Hide Intro Image On Mobile?
         description: Hide the intro image on mobile screen sizes
-  team:
+  dealer:
     type: page
-    label: Team
-    folder: team
+    label: Đại lý
+    folder: dealer
     exclude: _index.md
-    layout: team
+    layout: dealer
     fields:
       - type: string
         name: title
@@ -232,10 +232,10 @@ models:
         name: weight
       - type: boolean
         name: promoted
-  teams:
+  dealers:
     type: page
-    label: Teams
-    layout: teams
+    label: Hệ thống đại lý
+    layout: dealers
     fields:
       - type: string
         name: title

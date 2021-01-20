@@ -3,7 +3,7 @@
 ---
 
 // Colors
-$primary: #E5261F;
+$primary: rgb(125,163,105);
 $secondary: #f88379;
 $black: #2f2f41;
 $white: #ffffff;
@@ -58,8 +58,8 @@ $sub-footer-text-color: $white;
 
 // Pages
 @import 'pages/home';
-@import 'pages/team/team-summary';
-@import 'pages/services/page-services-single';
+@import 'pages/dealer/dealer-summary';
+@import 'pages/products/page-products-single';
 
 body {
   font-size: 16px;

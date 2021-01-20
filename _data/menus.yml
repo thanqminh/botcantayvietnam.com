@@ -1,21 +1,21 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Sản phẩm"
+    url: "/products/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
-    weight: 3
-  - name: "About"
+  - name: "Về chúng tôi"
     url: "/about/"
-    weight: 4
-  - name: "Contact"
+    weight: 3
+  - name: "Liên hệ"
     url: "/contact/"
+    weight: 4
+  - name: "Đại lý"
+    url: "/dealer/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Đầu trang"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "Liên hệ"
     url: "/contact/"
     weight: 2
